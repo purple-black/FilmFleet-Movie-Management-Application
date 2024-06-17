@@ -1,0 +1,52 @@
+Movies and Theatre Listing - CRUD Application with Search Functionality
+
+FEATURES LISTING:
+
+sign up and login with email
+
+1. search movies with:
+	movie name
+	actors
+		display movies with images
+	
+2. categories of movies:
+	language
+	genre
+	actors
+		display movies with images
+	
+3. list all latest release movies with images.
+
+4. on clicking movies images, list all theatres screening the movie 
+		and book ticket option
+		and display movie reviews
+			option to add reviews/ratings, like a movie
+			
+5. book ticket for movies
+		display available seats in theatre, 
+		different icons for different types of seats.
+		advance booking of food or drinks
+		
+6. list movies with images by its ratings, release date
+7. view ticket status
+
+8. profile --> see number of movies seen and movie suggestions
+	profile settings -> option to view and edit profile credentials
+	
+9. notification on new movie releases
+
+10. reminder before the booked show time
+
+11. set default place or city
+		get theatre suggestions in the default city
+		
+12. create/add new movie with actors and screening theatres
+
+13. when movie stops screening in theatre:
+		delete it from latest release list.
+		
+14. after a movie is booked, update status to booked.
+		after show time, update status to seen/watched.
+
+15. option to watch trailers.
+		
