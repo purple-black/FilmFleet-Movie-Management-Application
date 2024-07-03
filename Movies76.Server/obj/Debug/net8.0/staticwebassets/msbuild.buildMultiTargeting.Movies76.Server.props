@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Movies76.Server.props" />
+</Project>
